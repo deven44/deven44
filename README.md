@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm [Your Name], a MERN stack developer passionate about building web applications. Currently, I'm diving deep into mastering React to enhance my front-end skills. With a solid foundation in programming languages like Java and knowledge of Data Structures and Algorithms, I strive to create efficient and robust solutions to real-world problems. I love collaborating on projects and constantly seeking opportunities to learn and grow in the ever-evolving field of web development. Let's connect and build something awesome together! 💻🚀
+👋 Hi there! I'm devendra singh, a MERN stack developer passionate about building web applications. Currently, I'm diving deep into mastering React to enhance my front-end skills. With a solid foundation in programming languages like Java and knowledge of Data Structures and Algorithms, I strive to create efficient and robust solutions to real-world problems. I love collaborating on projects and constantly seeking opportunities to learn and grow in the ever-evolving field of web development. Let's connect and build something awesome together! 💻🚀
 
 
 ## 🌐 Socials:
